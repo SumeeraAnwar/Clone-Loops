@@ -3,6 +3,10 @@
     margin: 0;
     box-sizing: border-box;
 }
+body {
+    width: 100%;
+
+}
 h1 {
     text-align: center;
     border: 5px solid black;
@@ -10,4 +14,20 @@ h1 {
     margin: auto;
     padding: 20px;
     font-size: 100px;
+}
+p {
+    border: 2px solid black;
+    
+    padding: 20px;
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+}
+div {
+     border: 2px solid black;
+    
+    padding: 20px;
+    margin: auto;
+    margin-top: 20px;
+    width: 50%;
 }
